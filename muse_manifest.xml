@@ -1,0 +1,90 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yacinemriwa.io" resolutions="1x" timestamp="1512423400909">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="377068640" ref="index"/>
+    <file name="index.css" crc="4262545582" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="2.jpg" crc="4214225451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23283111_1958358847737479_1837122527_n-crop-u130.jpg" crc="74777799" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23283312_1958324707740893_871874779_n-crop-u314.jpg" crc="17992248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-4d29c4d8e6536e456f1d16a3b5446c805803f1745a77614671413d46f92735dd-v60x45.jpg" crc="366574081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171112_202252-crop-u394.jpg" crc="3792618854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171124_18310860x45.jpg" crc="3934105223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23283263_1958324717740892_1440771928_n-crop-u294.jpg" crc="228562089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-2ce5a47cbb20c980937fa5e76664e798808041a899b8fc06a253702783a5d44d-v60x45.jpg" crc="3865412075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-82d849e2e28a389dded80afdce900600bba0b84b548d67e084241c717b5903ca-v60x45.jpg" crc="3876518810" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171115_203239-crop-u414.jpg" crc="4065519927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171124_183146-crop-u454.jpg" crc="3760633118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23283111_1958358847737479_1837122527_n-crop-u142.jpg" crc="3963735948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="23283263_1958324717740892_1440771928_n-crop-u288.jpg" crc="47317923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23283312_1958324707740893_871874779_n-crop-u308.jpg" crc="3992436576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-2ce5a47cbb20c980937fa5e76664e798808041a899b8fc06a253702783a5d44d-v-crop-u328.jpg" crc="186052565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-4d29c4d8e6536e456f1d16a3b5446c805803f1745a77614671413d46f92735dd-v-crop-u348.jpg" crc="344613577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-82d849e2e28a389dded80afdce900600bba0b84b548d67e084241c717b5903ca-v-crop-u368.jpg" crc="441160970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171112_202252-crop-u388.jpg" crc="301770367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171115_203239-crop-u408.jpg" crc="3916867508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171124_183108-crop-u428.jpg" crc="4045581613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171124_183146-crop-u448.jpg" crc="4020914352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="20160220_113715.jpg" crc="3882272463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="479281758" seo="true" mt="1512423311005" redirect="true"/>
+</manifest>
